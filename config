@@ -108,7 +108,7 @@ font-4 = FiraCode Nerd Font:style=Regular:size=12;2
 ; Modlues
 modules-left   = updates-arch-aur memory cpu temperature system-cpu-temppercore
 modules-center =
-modules-right  = eth pulseaudio filesystem bluetooth-script
+modules-right  = eth pulseaudio filesystem
 tray-position = right
 tray-padding = 4
 tray-maxsize = 18
